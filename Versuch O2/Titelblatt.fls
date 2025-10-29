@@ -1,6 +1,6 @@
-PWD c:/Users/tomgl/Desktop/Vorlage Skript
+PWD c:/Users/tomgl/Documents/Universität Augsburg/AP/Versuch-O2 git/Versuch O2
 INPUT c:/texlive/2025/texmf-var/web2c/luahbtex/lualatex.fmt
-INPUT c:/Users/tomgl/Desktop/Vorlage Skript/Titelblatt.tex
+INPUT c:/Users/tomgl/Documents/Universität Augsburg/AP/Versuch-O2 git/Versuch O2/Titelblatt.tex
 OUTPUT Titelblatt.log
 INPUT c:/texlive/2025/texmf-dist/tex/latex/tex-ini-files/lualatexquotejobname.lua
 INPUT c:/texlive/2025/texmf-dist/tex/latex/base/ltluatex.lua
@@ -100,6 +100,13 @@ INPUT c:/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
 INPUT c:/texlive/2025/texmf-dist/tex/latex/wrapfig/wrapfig.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/ragged2e/ragged2e.sty
+INPUT c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT c:/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT c:/texlive/2025/texmf-dist/tex/latex/amsfonts/amssymb.sty
+INPUT c:/texlive/2025/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
 INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
 INPUT c:/texlive/2025/texmf-dist/tex/latex/graphics-def/luatex.def
@@ -126,6 +133,16 @@ INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam7.tfm
+INPUT c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
@@ -139,9 +156,17 @@ INPUT ./Titelblatt.toc
 OUTPUT Titelblatt.toc
 INPUT ./Einleitung.tex
 INPUT ./Theorie.tex
+INPUT ./Bilder/Strahlengang O2.png
+INPUT ./Bilder/Strahlengang O2.png
 INPUT ./Versuchsbeschreibung.tex
 INPUT ./AuswertungundDiskussion.tex
 INPUT ./Zusammenfassung.tex
 INPUT ./Laborbuch(Anhang).tex
 INPUT ./Literaturverzeichnis.tex
 INPUT ./Titelblatt.aux
+INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
+INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
+INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
+INPUT c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
