@@ -148,14 +148,15 @@ INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
 INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
 INPUT ./Bilder/Logo.jpg
 INPUT ./Bilder/Logo.jpg
-INPUT ./Bilder/Strahlengang O2.png
-INPUT ./Bilder/Strahlengang O2.png
+INPUT ./Bilder/Versuch O2 Darstellung.png
+INPUT ./Bilder/Versuch O2 Darstellung.png
 OUTPUT Titelblatt.pdf
 INPUT c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./Titelblatt.toc
 OUTPUT Titelblatt.toc
 INPUT ./Einleitung.tex
 INPUT ./Theorie.tex
+INPUT ./Bilder/Strahlengang O2.png
 INPUT ./Bilder/Strahlengang O2.png
 INPUT ./Versuchsbeschreibung.tex
 INPUT ./Bilder/Richtiger Aufbau.jpg

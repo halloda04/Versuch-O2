@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2025.8.29)  30 OCT 2025 21:48
+This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2025.8.29)  1 NOV 2025 13:06
  restricted system commands enabled.
  file:line:error style messages enabled.
 **"c:/Users/tomgl/Documents/Universität Augsburg/AP/Versuch-O2 git/Versuch O2/Titelblatt.tex"
@@ -549,16 +549,16 @@ Overfull \hbox (3.64635pt too wide) in paragraph at lines 80--91
 $[]$ $[]$  
  []
 
-<Bilder/Strahlengang O2.png, id=2, 263.48438pt x 197.73875pt>
-File: Bilder/Strahlengang O2.png Graphic file (type png)
-<use Bilder/Strahlengang O2.png>
-Package luatex.def Info: Bilder/Strahlengang O2.png  used on input line 97.
-(luatex.def)             Requested size: 790.45116pt x 593.2148pt.
+<Bilder/Versuch O2 Darstellung.png, id=2, 370.38374pt x 167.12437pt>
+File: Bilder/Versuch O2 Darstellung.png Graphic file (type png)
+<use Bilder/Versuch O2 Darstellung.png>
+Package luatex.def Info: Bilder/Versuch O2 Darstellung.png  used on input line 97.
+(luatex.def)             Requested size: 1111.14848pt x 501.37184pt.
 
 
 [1
 
-{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./Bilder/Logo.jpg><./Bilder/Strahlengang O2.png>] (./Titelblatt.toc)
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}<./Bilder/Logo.jpg><./Bilder/Versuch O2 Darstellung.png>] (./Titelblatt.toc)
 \tf@toc=\write3
 
 \openout3 = Titelblatt.toc
@@ -581,6 +581,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [3] (./Theorie.tex
+<Bilder/Strahlengang O2.png, id=19, 263.48438pt x 197.73875pt>
 File: Bilder/Strahlengang O2.png Graphic file (type png)
 <use Bilder/Strahlengang O2.png>
 Package luatex.def Info: Bilder/Strahlengang O2.png  used on input line 24.
@@ -594,7 +595,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[4])
+[4<./Bilder/Strahlengang O2.png>])
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -604,7 +605,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [5] (./Versuchsbeschreibung.tex
-<Bilder/Richtiger Aufbau.jpg, id=33, 2353.79375pt x 3317.39375pt>
+<Bilder/Richtiger Aufbau.jpg, id=35, 2353.79375pt x 3317.39375pt>
 File: Bilder/Richtiger Aufbau.jpg Graphic file (type jpg)
 <use Bilder/Richtiger Aufbau.jpg>
 Package luatex.def Info: Bilder/Richtiger Aufbau.jpg  used on input line 12.
@@ -618,7 +619,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[6<./Bilder/Richtiger Aufbau.jpg>] (./AuswertungundDiskussion.tex)
+[6<./Bilder/Richtiger Aufbau.jpg>]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -627,7 +628,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[7] (./Zusammenfassung.tex)
+[7] (./AuswertungundDiskussion.tex)
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -636,7 +637,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[8] (./Laborbuch(Anhang).tex)
+[8] (./Zusammenfassung.tex)
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -645,7 +646,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[9] (./Literaturverzeichnis.tex)
+[9] (./Laborbuch(Anhang).tex)
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -654,7 +655,16 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[10] (./Titelblatt.aux)
+[10] (./Literaturverzeichnis.tex)
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[11] (./Titelblatt.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
@@ -662,19 +672,19 @@ L3 programming layer <2025-08-13>
 )
 
 Here is how much of LuaTeX's memory you used:
- 8787 strings out of 470117
+ 8794 strings out of 470117
  100000,794899 words of node,token memory allocated
  682 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 26 attribute, 74 glue_spec, 15 attribute_list, 1 write nodes
-   avail lists: 2:469,3:126,4:36,5:290,6:37,7:3608,8:37,9:368,10:16,11:392
- 36967 multiletter control sequences out of 65536+600000
+   avail lists: 2:469,3:126,4:36,5:294,6:37,7:4130,8:37,9:368,10:16,11:420
+ 36974 multiletter control sequences out of 65536+600000
  43 fonts using 3107855 bytes
  73i,12n,73p,344b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman6-regular.otf><c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman8-regular.otf><c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf><c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman12-regular.otf><c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Titelblatt.pdf (10 pages, 1266043 bytes).
+Output written on Titelblatt.pdf (11 pages, 1315597 bytes).
 
-PDF statistics: 105 PDF objects out of 1000 (max. 8388607)
- 64 compressed objects within 1 object stream
+PDF statistics: 112 PDF objects out of 1000 (max. 8388607)
+ 68 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
