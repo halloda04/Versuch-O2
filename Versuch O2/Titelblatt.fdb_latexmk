@@ -1,5 +1,5 @@
 # Fdb version 4
-["lualatex"] 1761998765.96646 "c:/Users/tomgl/Documents/Universität Augsburg/AP/Versuch-O2 git/Versuch O2/Titelblatt.tex" "Titelblatt.pdf" "Titelblatt" 1761998785.90068 0
+["lualatex"] 1762011630.05566 "c:/Users/tomgl/Documents/Universität Augsburg/AP/Versuch-O2 git/Versuch O2/Titelblatt.tex" "Titelblatt.pdf" "Titelblatt" 1762011636.47885 0
   "AuswertungundDiskussion.tex" 1761399399 20 696881028540fc7b0c4ea3411c984040 ""
   "Bilder/Logo.jpg" 1761399399 61204 86fc4498e68325003687b0f9e9c31620 ""
   "Bilder/Richtiger Aufbau.jpg" 1761856213 1079537 49b055e0157dca639877f8bc7b7b222c ""
@@ -13,16 +13,16 @@
   "C:/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman6-regular.luc" 1761399604 128508 c1cdc23dd0c86f66f607d87c36a76884 ""
   "C:/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman8-regular.luc" 1761399604 128138 b93d1f5d574e08720138927baca9fcb2 ""
   "C:/texlive/2025/texmf-var/luatex-cache/generic/names/luaotfload-names.luc.gz" 1761063153 324192 a9f867803dfc5dcb1093503161070038 ""
-  "Einleitung.tex" 1761854069 966 0c2e368ab88c1ff56deb89e2e57bb5f6 ""
+  "Einleitung.tex" 1762011627 1134 2b90d2c2f9a173f7ae9ad6bfa7c5d2c4 ""
   "Laborbuch(Anhang).tex" 1761399399 16 5f339988ab9ee69742204718183cdec3 ""
   "Literaturverzeichnis.tex" 1761749832 30 f626f4f8833fa789a80146544875955e ""
   "Theorie.tex" 1761759639 3832 c7784e2a145be3930a2439b5642e77d2 ""
-  "Titelblatt.aux" 1761998780 1973 e84f2366e7932ba9085c080164edcd74 "lualatex"
-  "Titelblatt.tex" 1761998759 2918 745e5c936886cbf57ba05625ce7e0091 ""
-  "Titelblatt.toc" 1761998780 731 3a230ccdf86ae36b8e07fadaf7fef35e "lualatex"
+  "Titelblatt.aux" 1762011635 1973 e84f2366e7932ba9085c080164edcd74 "lualatex"
+  "Titelblatt.tex" 1761999935 2918 745e5c936886cbf57ba05625ce7e0091 ""
+  "Titelblatt.toc" 1762011635 731 3a230ccdf86ae36b8e07fadaf7fef35e "lualatex"
   "Versuchsbeschreibung.tex" 1761998454 1992 4c23e58778a167f89acb252cf584d536 ""
   "Zusammenfassung.tex" 1761399399 25 e98c71f9a12b758d92dd18f79c1c7dae ""
-  "c:/Users/tomgl/Documents/Universität Augsburg/AP/Versuch-O2 git/Versuch O2/Titelblatt.tex" 1761998759 2918 745e5c936886cbf57ba05625ce7e0091 ""
+  "c:/Users/tomgl/Documents/Universität Augsburg/AP/Versuch-O2 git/Versuch O2/Titelblatt.tex" 1761999935 2918 745e5c936886cbf57ba05625ce7e0091 ""
   "c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman10-bold.otf" 1756471026 111240 1d60e9def74b1102bb4defa7cb772ee3 ""
   "c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf" 1756471026 111536 fc712364c8d0a1b548d46c76f2678030 ""
   "c:/texlive/2025/texmf-dist/fonts/opentype/public/lm/lmroman12-bold.otf" 1756471026 110496 3798ed6a50bb549a3371df87f46555f4 ""
