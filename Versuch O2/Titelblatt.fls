@@ -162,6 +162,14 @@ INPUT ./Versuchsbeschreibung.tex
 INPUT ./Bilder/Richtiger Aufbau.jpg
 INPUT ./Bilder/Richtiger Aufbau.jpg
 INPUT ./AuswertungundDiskussion.tex
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
+INPUT c:/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT C:/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman12-italic.luc
+INPUT C:/texlive/2025/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-italic.luc
 INPUT ./Zusammenfassung.tex
 INPUT ./Laborbuch(Anhang).tex
 INPUT ./Literaturverzeichnis.tex
