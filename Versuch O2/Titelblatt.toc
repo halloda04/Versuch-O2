@@ -7,6 +7,7 @@
 \contentsline {subsection}{\numberline {3.1}Versuchsaufbau}{6}{}%
 \contentsline {subsection}{\numberline {3.2}Versuchsdurchführung}{6}{}%
 \contentsline {section}{\numberline {4}Auswertung}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Teil 1}{8}{}%
 \contentsline {section}{\numberline {5}Zusammenfassung}{9}{}%
 \contentsline {section}{\numberline {6}Anhang}{10}{}%
 \contentsline {section}{\numberline {7}Literaturverzeichnis}{11}{}%
