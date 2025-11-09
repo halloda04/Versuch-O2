@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Versuch O2/Titelblatt.log
 This is LuaHBTeX, Version 1.22.0 (TeX Live 2025)  (format=lualatex 2025.8.29)  7 NOV 2025 17:21
  restricted system commands enabled.
  file:line:error style messages enabled.
@@ -10,6 +11,24 @@ Lua module: lualibs 2023-07-13 v2.76 ConTeXt Lua standard libraries.
 Lua module: lualibs-extended 2023-07-13 v2.76 ConTeXt Lua libraries -- extended collection.
 luaotfload | conf : Root cache directory is "C:/texlive/2025/texmf-var/luatex-cache/generic/names".
 luaotfload | init : Loading fontloader "fontloader-2023-12-28.lua" from kpse-resolved path "c:/texlive/2025/texmf-dist/tex/luatex/luaotfload/fontloader-2023-12-28.lua".
+=======
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.10.29)  9 NOV 2025 19:39
+ restricted system commands enabled.
+ file:line:error style messages enabled.
+**c:/Users/HP/Documents/uni/Ap/Versuch-O2/Titelblatt
+(c:/Users/HP/Documents/uni/Ap/Versuch-O2/Titelblatt.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-01-04>
+Lua module: luaotfload 2023-08-31 3.26 Lua based OpenType font support
+Lua module: lualibs 2023-07-13 2.76 ConTeXt Lua standard libraries.
+Lua module: lualibs-extended 2023-07-13 2.76 ConTeXt Lua libraries -- extended c
+ollection.
+luaotfload | conf : Root cache directory is "C:/Users/HP/AppData/Local/MiKTeX/lu
+atex-cache/generic/names".
+luaotfload | init : Loading fontloader "fontloader-2023-08-19.lua" from kpse-res
+olved path "C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/luatex/luaotfload/font
+loader-2023-08-19.lua".
+>>>>>>> bb6b2b6732b809619a7131b40725f8c8d4cd50fa:Titelblatt.log
 Lua-only attribute luaotfload@noligature = 1
 luaotfload | init : Context OpenType loader version 3.134
 Inserting `luaotfload.node_processor' in `pre_linebreak_filter'.
@@ -363,9 +382,44 @@ Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
 LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+<<<<<<< HEAD:Versuch O2/Titelblatt.log
 )) (c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
  (c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+=======
+))
+(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen168
+\captionmargin=\dimen169
+\caption@leftmargin=\dimen170
+\caption@rightmargin=\dimen171
+\caption@width=\dimen172
+\caption@indent=\dimen173
+\caption@parindent=\dimen174
+\caption@hangindent=\dimen175
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count291
+\c@continuedfloat=\count292
+Package caption Info: wrapfig package is loaded.
+)
+(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count293
+\float@exts=\toks29
+\float@box=\box56
+\@float@everytoks=\toks30
+\@floatcapt=\box57
+)
+(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg
+>>>>>>> bb6b2b6732b809619a7131b40725f8c8d4cd50fa:Titelblatt.log
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: luatex.def on input line 274.
@@ -398,6 +452,7 @@ Package graphics Info: Driver file: luatex.def on input line 106.
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 (babel)             Reported on input line 5.
 )
+<<<<<<< HEAD:Versuch O2/Titelblatt.log
 \openout1 = Titelblatt.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
@@ -416,6 +471,35 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
 LaTeX Font Info:    ... okay on input line 64.
+=======
+\Gin@req@height=\dimen176
+\Gin@req@width=\dimen177
+) (./Titelblatt.aux)
+\openout1 = Titelblatt.aux
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 67.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6
+7.
+
+(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 67.
+LaTeX Font Info:    ... okay on input line 67.
+>>>>>>> bb6b2b6732b809619a7131b40725f8c8d4cd50fa:Titelblatt.log
 
 Package fontspec Info: 
 (fontspec)             Adjusting the maths setup (use [no-math] to avoid
@@ -423,56 +507,56 @@ Package fontspec Info:
 
 \symlegacymaths=\mathgroup6
 LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
-(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 64.
-LaTeX Font Info:    Redeclaring math accent \acute on input line 64.
-LaTeX Font Info:    Redeclaring math accent \grave on input line 64.
-LaTeX Font Info:    Redeclaring math accent \ddot on input line 64.
-LaTeX Font Info:    Redeclaring math accent \tilde on input line 64.
-LaTeX Font Info:    Redeclaring math accent \bar on input line 64.
-LaTeX Font Info:    Redeclaring math accent \breve on input line 64.
-LaTeX Font Info:    Redeclaring math accent \check on input line 64.
-LaTeX Font Info:    Redeclaring math accent \hat on input line 64.
-LaTeX Font Info:    Redeclaring math accent \dot on input line 64.
-LaTeX Font Info:    Redeclaring math accent \mathring on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Delta on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Theta on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Xi on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Pi on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Phi on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Psi on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \Omega on input line 64.
-LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 64.
-LaTeX Font Info:    Redeclaring symbol font `operators' on input line 64.
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 67.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 67.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 67.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 67.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 67.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 67.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 67.
+LaTeX Font Info:    Redeclaring math accent \check on input line 67.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 67.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 67.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 67.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 67.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 67.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `normal' on input line 64.
+(Font)              `operators' in the math version `normal' on input line 67.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 64.
+(Font)                  OT1/cmr/m/n --> TU/lmr/m/n on input line 67.
 LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
-(Font)              `operators' in the math version `bold' on input line 64.
+(Font)              `operators' in the math version `bold' on input line 67.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 64.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/m/n on input line 67.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 64.
+(Font)                  TU/lmr/m/n --> TU/lmr/m/n on input line 67.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 64.
+(Font)                  OT1/cmr/m/it --> TU/lmr/m/it on input line 67.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 64.
+(Font)                  OT1/cmr/bx/n --> TU/lmr/b/n on input line 67.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 64.
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 67.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 64.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 67.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 64.
+(Font)                  TU/lmr/m/n --> TU/lmr/b/n on input line 67.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 64.
+(Font)                  OT1/cmr/bx/it --> TU/lmr/b/it on input line 67.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 64.
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 67.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 64.
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 67.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -508,6 +592,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
+<<<<<<< HEAD:Versuch O2/Titelblatt.log
 (c:/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count313
@@ -522,37 +607,75 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 \makeMPintoPDFobject=\count318
 \everyMPtoPDFconversion=\toks30
 ) (c:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+=======
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: End \AtBeginDocument code.
+(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count294
+\scratchdimen=\dimen178
+\scratchbox=\box58
+\nofMPsegments=\count295
+\nofMParguments=\count296
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count297
+\MPscratchDim=\dimen179
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
+\everyMPtoPDFconversion=\toks32
+)
+(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base
+.sty
+>>>>>>> bb6b2b6732b809619a7131b40725f8c8d4cd50fa:Titelblatt.log
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (c:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-Overfull \hbox (56.25862pt too wide) in paragraph at lines 70--70
+Overfull \hbox (56.25862pt too wide) in paragraph at lines 73--73
 \TU/lmr/bx/n/50 An-fän-ger-prak-ti-kum[]  
  []
 
+<<<<<<< HEAD:Versuch O2/Titelblatt.log
 LaTeX Font Info:    Trying to load font information for U+msa on input line 87.
 (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
 LaTeX Font Info:    Trying to load font information for U+msb on input line 87.
  (c:/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+=======
+LaTeX Font Info:    Trying to load font information for U+msa on input line 90.
+
+(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 90.
+
+
+(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsb.fd
+>>>>>>> bb6b2b6732b809619a7131b40725f8c8d4cd50fa:Titelblatt.log
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 <Bilder/Logo.jpg, id=1, 405.4347pt x 70.8246pt>
 File: Bilder/Logo.jpg Graphic file (type jpg)
 <use Bilder/Logo.jpg>
-Package luatex.def Info: Bilder/Logo.jpg  used on input line 89.
+Package luatex.def Info: Bilder/Logo.jpg  used on input line 92.
 (luatex.def)             Requested size: 213.39568pt x 37.27855pt.
 
-Overfull \hbox (3.64635pt too wide) in paragraph at lines 80--91
+Overfull \hbox (3.64635pt too wide) in paragraph at lines 83--94
 $[]$ $[]$  
  []
 
 <Bilder/Versuch O2 Darstellung.png, id=2, 370.38374pt x 167.12437pt>
 File: Bilder/Versuch O2 Darstellung.png Graphic file (type png)
 <use Bilder/Versuch O2 Darstellung.png>
+<<<<<<< HEAD:Versuch O2/Titelblatt.log
 Package luatex.def Info: Bilder/Versuch O2 Darstellung.png  used on input line 97.
+=======
+Package luatex.def Info: Bilder/Versuch O2 Darstellung.png  used on input line 
+100.
+>>>>>>> bb6b2b6732b809619a7131b40725f8c8d4cd50fa:Titelblatt.log
 (luatex.def)             Requested size: 1111.14848pt x 501.37184pt.
 
 
@@ -608,7 +731,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 <Bilder/Richtiger Aufbau.jpg, id=35, 2353.79375pt x 3317.39375pt>
 File: Bilder/Richtiger Aufbau.jpg Graphic file (type jpg)
 <use Bilder/Richtiger Aufbau.jpg>
-Package luatex.def Info: Bilder/Richtiger Aufbau.jpg  used on input line 12.
+Package luatex.def Info: Bilder/Richtiger Aufbau.jpg  used on input line 13.
 (luatex.def)             Requested size: 188.30734pt x 265.39693pt.
 )
 
@@ -628,7 +751,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[7] (./AuswertungundDiskussion.tex)
+[7] (./AuswertungundDiskussion.tex
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -637,7 +760,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[8] (./Zusammenfassung.tex)
+[8]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -646,7 +769,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[9] (./Laborbuch(Anhang).tex)
+[9]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -655,7 +778,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[10] (./Literaturverzeichnis.tex)
+[10]
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -664,7 +787,50 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[11] (./Titelblatt.aux)
+[11]
+<Bilder/ngegenlampda.png, id=62, 462.528pt x 346.896pt>
+File: Bilder/ngegenlampda.png Graphic file (type png)
+<use Bilder/ngegenlampda.png>
+Package luatex.def Info: Bilder/ngegenlampda.png  used on input line 266.
+(luatex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (35.7355pt too wide) in paragraph at lines 266--267
+ [][] 
+ []
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[12<./Bilder/ngegenlampda.png>] (./Zusammenfassung.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[13] (./Laborbuch(Anhang).tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14] (./Literaturverzeichnis.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[15] (./Titelblatt.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-08-13>
@@ -672,6 +838,7 @@ L3 programming layer <2025-08-13>
 )
 
 Here is how much of LuaTeX's memory you used:
+<<<<<<< HEAD:Versuch O2/Titelblatt.log
  8811 strings out of 470117
  100000,794899 words of node,token memory allocated
  700 words of node memory still in use:
@@ -685,6 +852,43 @@ Output written on Titelblatt.pdf (11 pages, 1327029 bytes).
 
 PDF statistics: 126 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
+=======
+ 10195 strings out of 476497
+ 100000,1977958 words of node,token memory allocated
+ 748 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 48 attribute, 74 glue_spec
+, 26 attribute_list, 1 write nodes
+   avail lists: 2:1241,3:149,4:52,5:415,6:50,7:6180,8:122,9:843,10:22,11:436
+ 31994 multiletter control sequences out of 65536+600000
+ 64 fonts using 4829399 bytes
+ 79i,15n,89p,453b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<//?/c:/users/hp/appdata/local/programs/miktex/fonts/opentype/public/lm/lmromand
+emi10-regular.otf><//?/c:/users/hp/appdata/local/programs/miktex/fonts/opentype/
+public/lm/lmroman12-italic.otf><//?/c:/users/hp/appdata/local/programs/miktex/fo
+nts/opentype/public/lm/lmroman6-regular.otf><//?/c:/users/hp/appdata/local/progr
+ams/miktex/fonts/opentype/public/lm/lmroman8-regular.otf><//?/c:/users/hp/appdat
+a/local/programs/miktex/fonts/opentype/public/lm/lmroman10-italic.otf><//?/c:/us
+ers/hp/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-bold.otf
+><//?/c:/users/hp/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman
+10-regular.otf><//?/c:/users/hp/appdata/local/programs/miktex/fonts/opentype/pub
+lic/lm/lmroman12-regular.otf><//?/c:/users/hp/appdata/local/programs/miktex/font
+s/opentype/public/lm/lmroman12-bold.otf><C:/Users/HP/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/HP/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/HP/AppData/Local/Pro
+grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/HP/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/HP/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/HP/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><C:/Users/
+HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Us
+ers/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
+:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb
+><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
+0.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb>
+Output written on Titelblatt.pdf (15 pages, 1432018 bytes).
+
+PDF statistics: 165 PDF objects out of 1000 (max. 8388607)
+>>>>>>> bb6b2b6732b809619a7131b40725f8c8d4cd50fa:Titelblatt.log
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
