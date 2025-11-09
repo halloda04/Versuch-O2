@@ -1,0 +1,159 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/apasortcite//global/global/global}
+    \entry{Optical_Constant_of_Water}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9aab3beed28b1538ee67d9e7594d47fb}{%
+           family={Hale},
+           familyi={H\bibinitperiod},
+           given={G.M.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1d386fa41ce6702488a11fa6d3e2a0f}{%
+           family={M.R.Querry},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0754cc15951535724bab080543345a80}
+      \strng{fullhash}{0754cc15951535724bab080543345a80}
+      \strng{fullhashraw}{0754cc15951535724bab080543345a80}
+      \strng{bibnamehash}{0754cc15951535724bab080543345a80}
+      \strng{authorbibnamehash}{0754cc15951535724bab080543345a80}
+      \strng{authornamehash}{0754cc15951535724bab080543345a80}
+      \strng{authorfullhash}{0754cc15951535724bab080543345a80}
+      \strng{authorfullhashraw}{0754cc15951535724bab080543345a80}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Optics}
+      \field{title}{Optical Constants of Water in the 200-nm to 200µm Wavelenght Region}
+      \field{year}{1973}
+    \endentry
+    \entry{tipler}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6d49f29f369c162604bae0d2f6dd9db}{%
+           family={G.Mosca},
+           familyi={G\bibinitperiod},
+           given={P.A.Tipler},
+           giveni={P\bibinitperiod},
+           givenun=0,
+           prefix={und},
+           prefixi={u\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer Spektrum}%
+      }
+      \strng{namehash}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{fullhash}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{fullhashraw}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{bibnamehash}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{authorbibnamehash}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{authornamehash}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{authorfullhash}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{authorfullhashraw}{b6d49f29f369c162604bae0d2f6dd9db}
+      \field{sortinit}{u}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physik für Wissenschaftler und Ingenieure}
+      \field{year}{2019}
+    \endentry
+  \enddatalist
+  \datalist[entry]{apa/global//global/global/global}
+    \entry{Optical_Constant_of_Water}{article}{}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=9aab3beed28b1538ee67d9e7594d47fb}{%
+           family={Hale},
+           familyi={H\bibinitperiod},
+           given={G.M.},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b1d386fa41ce6702488a11fa6d3e2a0f}{%
+           family={M.R.Querry},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{0754cc15951535724bab080543345a80}
+      \strng{fullhash}{0754cc15951535724bab080543345a80}
+      \strng{fullhashraw}{0754cc15951535724bab080543345a80}
+      \strng{bibnamehash}{0754cc15951535724bab080543345a80}
+      \strng{authorbibnamehash}{0754cc15951535724bab080543345a80}
+      \strng{authornamehash}{0754cc15951535724bab080543345a80}
+      \strng{authorfullhash}{0754cc15951535724bab080543345a80}
+      \strng{authorfullhashraw}{0754cc15951535724bab080543345a80}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Optics}
+      \field{title}{Optical Constants of Water in the 200-nm to 200µm Wavelenght Region}
+      \field{year}{1973}
+    \endentry
+    \entry{tipler}{book}{}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6d49f29f369c162604bae0d2f6dd9db}{%
+           family={G.Mosca},
+           familyi={G\bibinitperiod},
+           given={P.A.Tipler},
+           giveni={P\bibinitperiod},
+           givenun=0,
+           prefix={und},
+           prefixi={u\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {New York}%
+      }
+      \list{publisher}{1}{%
+        {Springer Spektrum}%
+      }
+      \strng{namehash}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{fullhash}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{fullhashraw}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{bibnamehash}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{authorbibnamehash}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{authornamehash}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{authorfullhash}{b6d49f29f369c162604bae0d2f6dd9db}
+      \strng{authorfullhashraw}{b6d49f29f369c162604bae0d2f6dd9db}
+      \field{sortinit}{u}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Physik für Wissenschaftler und Ingenieure}
+      \field{year}{2019}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
