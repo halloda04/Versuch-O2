@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.10.29)  9 NOV 2025 14:11
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.10.29)  9 NOV 2025 16:50
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/HP/Documents/uni/Ap/Versuch-O2/Titelblatt
@@ -722,7 +722,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[8])
+[8]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -730,7 +730,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[9] (./Zusammenfassung.tex)
+[9]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -738,7 +738,18 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[10] (./Laborbuch(Anhang).tex)
+[10]
+<Bilder/ngegenlampda.png, id=58, 462.528pt x 346.896pt>
+File: Bilder/ngegenlampda.png Graphic file (type png)
+<use Bilder/ngegenlampda.png>
+Package luatex.def Info: Bilder/ngegenlampda.png  used on input line 247.
+(luatex.def)             Requested size: 462.52686pt x 346.89514pt.
+
+Overfull \hbox (35.7355pt too wide) in paragraph at lines 247--248
+ [][] 
+ []
+
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -746,7 +757,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[11] (./Literaturverzeichnis.tex)
+[11<./Bilder/ngegenlampda.png>] (./Zusammenfassung.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -754,7 +765,23 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[12] (./Titelblatt.aux)
+[12] (./Laborbuch(Anhang).tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[13] (./Literaturverzeichnis.tex)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 13.59999pt, for example:
+(fancyhdr)                \setlength{\headheight}{13.59999pt}.
+(fancyhdr)                You might also make \topmargin smaller:
+(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
+
+[14] (./Titelblatt.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -762,13 +789,13 @@ L3 programming layer <2024-01-04>
 )
 
 Here is how much of LuaTeX's memory you used:
- 10179 strings out of 476497
+ 10194 strings out of 476497
  100000,1977958 words of node,token memory allocated
  748 words of node memory still in use:
    7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 48 attribute, 74 glue_spec
 , 26 attribute_list, 1 write nodes
-   avail lists: 2:1244,3:151,4:52,5:292,6:50,7:4130,8:122,9:805,10:14,11:417
- 31981 multiletter control sequences out of 65536+600000
+   avail lists: 2:1244,3:151,4:52,5:292,6:50,7:4130,8:122,9:872,10:14,11:417
+ 31993 multiletter control sequences out of 65536+600000
  64 fonts using 4829399 bytes
  79i,15n,89p,453b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/users/hp/appdata/local/programs/miktex/fonts/opentype/public/lm/lmromand
@@ -794,9 +821,9 @@ ers/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
 ><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmsy8.pfb>
-Output written on Titelblatt.pdf (12 pages, 1390438 bytes).
+Output written on Titelblatt.pdf (14 pages, 1426255 bytes).
 
-PDF statistics: 154 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 162 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
