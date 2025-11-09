@@ -6,9 +6,10 @@
 \contentsline {section}{\numberline {3}Versuchsbeschreibung}{6}{}%
 \contentsline {subsection}{\numberline {3.1}Versuchsaufbau}{6}{}%
 \contentsline {subsection}{\numberline {3.2}Versuchsdurchführung}{6}{}%
-\contentsline {section}{\numberline {4}Auswertung}{8}{}%
-\contentsline {subsection}{\numberline {4.1}Teil 1}{8}{}%
-\contentsline {subsection}{\numberline {4.2}Teil 2}{11}{}%
-\contentsline {section}{\numberline {5}Zusammenfassung}{14}{}%
-\contentsline {section}{\numberline {6}Anhang}{15}{}%
-\contentsline {section}{\numberline {7}Literaturverzeichnis}{18}{}%
+\contentsline {section}{\numberline {4}Auswertung}{7}{}%
+\contentsline {subsection}{\numberline {4.1}Teil 1}{7}{}%
+\contentsline {subsection}{\numberline {4.2}Teil 2}{9}{}%
+\contentsline {subsection}{\numberline {4.3}Teil 3}{10}{}%
+\contentsline {section}{\numberline {5}Zusammenfassung}{11}{}%
+\contentsline {section}{\numberline {6}Anhang}{12}{}%
+\contentsline {section}{\numberline {7}Literaturverzeichnis}{15}{}%

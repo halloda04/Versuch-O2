@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.10.29)  9 NOV 2025 20:34
+This is LuaHBTeX, Version 1.17.1 (MiKTeX 24.1) (format=lualatex 2025.10.29)  9 NOV 2025 21:46
  restricted system commands enabled.
  file:line:error style messages enabled.
 **c:/Users/HP/Documents/uni/Ap/Versuch-O2/Titelblatt
@@ -436,32 +436,6 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks30
 \@floatcapt=\box57
 )
-
-c:/Users/HP/Documents/uni/Ap/Versuch-O2/Titelblatt.tex:19: LaTeX Error: Missing
- \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.19 <
-    <<<<<< HEAD
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-
-c:/Users/HP/Documents/uni/Ap/Versuch-O2/Titelblatt.tex:23: LaTeX Error: Missing
- \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.23 =
-    ======
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
 (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.sty
 Package: biblatex 2023/03/05 v3.19 programmable bibliographies (PK/MW)
 
@@ -568,11 +542,7 @@ Package biblatex Info: ... file 'blx-dm.def' found.
 File: blx-dm.def 2023/03/05 v3.19 biblatex localization (PK/MW)
 )
 Package biblatex Info: Trying to load biblatex style data model...
-Package biblatex Info: ... file 'apa.dbx' found.
-
-(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex-apa/apa.dbx
-File: apa.dbx 2025/08/27 v9.20 APA biblatex style data model
-)
+Package biblatex Info: ... file 'numeric.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@afterword=\count342
@@ -611,48 +581,38 @@ Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
 \c@savedshortauthor=\count375
 \c@shorteditor=\count376
 \c@savedshorteditor=\count377
-\c@narrator=\count378
-\c@savednarrator=\count379
-\c@execproducer=\count380
-\c@savedexecproducer=\count381
-\c@execdirector=\count382
-\c@savedexecdirector=\count383
-\c@with=\count384
-\c@savedwith=\count385
-\c@labelname=\count386
-\c@savedlabelname=\count387
-\c@institution=\count388
-\c@savedinstitution=\count389
-\c@lista=\count390
-\c@savedlista=\count391
-\c@listb=\count392
-\c@savedlistb=\count393
-\c@listc=\count394
-\c@savedlistc=\count395
-\c@listd=\count396
-\c@savedlistd=\count397
-\c@liste=\count398
-\c@savedliste=\count399
-\c@listf=\count400
-\c@savedlistf=\count401
-\c@location=\count402
-\c@savedlocation=\count403
-\c@organization=\count404
-\c@savedorganization=\count405
-\c@origlocation=\count406
-\c@savedoriglocation=\count407
-\c@origpublisher=\count408
-\c@savedorigpublisher=\count409
-\c@publisher=\count410
-\c@savedpublisher=\count411
-\c@language=\count412
-\c@savedlanguage=\count413
-\c@origlanguage=\count414
-\c@savedoriglanguage=\count415
-\c@citation=\count416
-\c@savedcitation=\count417
-\c@pageref=\count418
-\c@savedpageref=\count419
+\c@labelname=\count378
+\c@savedlabelname=\count379
+\c@institution=\count380
+\c@savedinstitution=\count381
+\c@lista=\count382
+\c@savedlista=\count383
+\c@listb=\count384
+\c@savedlistb=\count385
+\c@listc=\count386
+\c@savedlistc=\count387
+\c@listd=\count388
+\c@savedlistd=\count389
+\c@liste=\count390
+\c@savedliste=\count391
+\c@listf=\count392
+\c@savedlistf=\count393
+\c@location=\count394
+\c@savedlocation=\count395
+\c@organization=\count396
+\c@savedorganization=\count397
+\c@origlocation=\count398
+\c@savedoriglocation=\count399
+\c@origpublisher=\count400
+\c@savedorigpublisher=\count401
+\c@publisher=\count402
+\c@savedpublisher=\count403
+\c@language=\count404
+\c@savedlanguage=\count405
+\c@origlanguage=\count406
+\c@savedoriglanguage=\count407
+\c@pageref=\count408
+\c@savedpageref=\count409
 \shorthandwidth=\skip91
 \shortjournalwidth=\skip92
 \shortserieswidth=\skip93
@@ -682,70 +642,52 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.def
 File: biblatex.def 2023/03/05 v3.19 biblatex compatibility (PK/MW)
-\c@textcitecount=\count420
-\c@textcitetotal=\count421
-\c@textcitemaxnames=\count422
-\c@biburlbigbreakpenalty=\count423
-\c@biburlbreakpenalty=\count424
-\c@biburlnumpenalty=\count425
-\c@biburlucpenalty=\count426
-\c@biburllcpenalty=\count427
+\c@textcitecount=\count410
+\c@textcitetotal=\count411
+\c@textcitemaxnames=\count412
+\c@biburlbigbreakpenalty=\count413
+\c@biburlbreakpenalty=\count414
+\c@biburlnumpenalty=\count415
+\c@biburlucpenalty=\count416
+\c@biburllcpenalty=\count417
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count428
+\c@smartand=\count418
 )
-Package biblatex Info: Trying to load bibliography style 'apa'...
-Package biblatex Info: ... file 'apa.bbx' found.
+Package biblatex Info: Trying to load bibliography style 'numeric'...
+Package biblatex Info: ... file 'numeric.bbx' found.
 
-(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex-apa/apa.bbx
-File: apa.bbx 2025/08/27 v9.20 APA biblatex references style
+(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/bbx/numeric.bbx
+File: numeric.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
 (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/bbx/standard.bbx
 File: standard.bbx 2023/03/05 v3.19 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count429
-\c@bbx:relatedtotal=\count430
-)
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'bib' already defin
-ed, overwriting.
-Package biblatex Info: Delimiter 'nameyeardelim' in context 'biblist' already d
-efined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'bib' already def
-ined, overwriting.
-Package biblatex Info: Delimiter 'nonameyeardelim' in context 'biblist' already
- defined, overwriting.
-)
-Package biblatex Info: Trying to load citation style 'apa'...
-Package biblatex Info: ... file 'apa.cbx' found.
- (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex-apa/apa.cbx
-File: apa.cbx 2025/08/27 v9.20 APA biblatex citation style
-Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
- overwriting.
-Package biblatex Info: Delimiter 'andothersdelim' in context '' already defined
-, overwriting.
-Package biblatex Info: Redefining '\fullcite'.
-Package biblatex Info: Redefining '\citeauthor'.
-Package biblatex Info: Redefining '\citeyear'.
+\c@bbx:relatedcount=\count419
+\c@bbx:relatedtotal=\count420
+))
+Package biblatex Info: Trying to load citation style 'numeric'...
+Package biblatex Info: ... file 'numeric.cbx' found.
+ (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/cbx/numeric.cbx
+File: numeric.cbx 2023/03/05 v3.19 biblatex citation style (PK/MW)
 Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\cites'.
 Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\parencites'.
 Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcites'.
 Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\footcitetexts'.
 Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\smartcites'.
+Package biblatex Info: Redefining '\supercite'.
 Package biblatex Info: Redefining '\textcite'.
 Package biblatex Info: Redefining '\textcites'.
-Lua function BLTXAPAifInParensTF = 25)
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.cfg
+ (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/biblatex.cfg
 File: biblatex.cfg 
 )
 Package biblatex Info: LuaTeX detected.
@@ -759,21 +701,7 @@ Package biblatex Info: ... and expl3
 (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/blx-case-expl3.st
 y
 Package: blx-case-expl3 2023/03/05 v3.19 expl3 case changing code for biblatex
-))
-
-c:/Users/HP/Documents/uni/Ap/Versuch-O2/Titelblatt.tex:26: LaTeX Error: Missing
- \begin{document}.
-
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.26 >
-    >>>>>> 83764f0177f1a1093332e5d1f4588990425aeedf
-You're in trouble here.  Try typing  <return>  to proceed.
-If that doesn't work, type  X <return>  to quit.
-
-(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
+)) (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
 
 (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/graphics-cfg/color.cfg
@@ -816,11 +744,11 @@ Package graphics Info: Driver file: luatex.def on input line 107.
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count431
-\@quotereset=\count432
-No file Titelblatt.aux.
-
+\@quotelevel=\count421
+\@quotereset=\count422
+(./Titelblatt.aux)
 \openout1 = Titelblatt.aux
+
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
 LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
@@ -832,6 +760,7 @@ LaTeX Font Info:    ... okay on input line 74.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 7
 4.
+
 (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
@@ -936,44 +865,22 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: float package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package biblatex Info: Trying to load language 'ngerman' -> 'ngerman-apa'...
-Package biblatex Info: ... file 'ngerman-apa.lbx' found.
-
-(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex-apa/ngerman-apa.l
-bx
-File: ngerman-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
-
 (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/ngerman.lbx
 File: ngerman.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-Package biblatex Info: Trying to load language 'german' -> 'german-apa'...
-Package biblatex Info: ... file 'german-apa.lbx' found.
-
-(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex-apa/german-apa.lb
-x
-File: german-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
- (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/german.lbx
+
+(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/german.lbx
 File: german.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)))
-Package biblatex Info: Trying to load language 'ngerman'...
-Package biblatex Info: ... file 'ngerman.lbx' found.
-
-(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/ngerman.lbx
-File: ngerman.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-Package biblatex Info: Trying to load language 'german' -> 'german-apa'...
-Package biblatex Info: ... file 'german-apa.lbx' found.
-
-(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex-apa/german-apa.lb
-x
-File: german-apa.lbx 2025/08/27 v9.20 APA biblatex localisation
+)
 Package biblatex Info: Trying to load language 'german'...
 Package biblatex Info: ... file 'german.lbx' found.
- (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/german.lbx
+
+(C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/biblatex/lbx/german.lbx
 File: german.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-))))
+))
 Package biblatex Info: LuaTeX detected.
 (biblatex)             Assuming input encoding 'utf8'.
 Package biblatex Info: Automatic encoding selection.
@@ -993,16 +900,16 @@ Package biblatex Info: Reference segment=0 on input line 74.
 
 (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count433
+\scratchcounter=\count423
 \scratchdimen=\dimen178
 \scratchbox=\box58
-\nofMPsegments=\count434
-\nofMParguments=\count435
+\nofMPsegments=\count424
+\nofMParguments=\count425
 \everyMPshowfont=\toks32
-\MPscratchCnt=\count436
+\MPscratchCnt=\count426
 \MPscratchDim=\dimen179
-\MPnumerator=\count437
-\makeMPintoPDFobject=\count438
+\MPnumerator=\count427
+\makeMPintoPDFobject=\count428
 \everyMPtoPDFconversion=\toks33
 )
 (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/epstopdf-pkg/epstopdf-base
@@ -1013,9 +920,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 
 (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
-)) [1
-
-{C:/Users/HP/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+))
 Overfull \hbox (56.25862pt too wide) in paragraph at lines 80--80
 \TU/lmr/bx/n/50 An-fän-ger-prak-ti-kum[]  
  []
@@ -1031,7 +936,7 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 97.
 (C:/Users/HP/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-<Bilder/Logo.jpg, id=6, 405.4347pt x 70.8246pt>
+<Bilder/Logo.jpg, id=1, 405.4347pt x 70.8246pt>
 File: Bilder/Logo.jpg Graphic file (type jpg)
 <use Bilder/Logo.jpg>
 Package luatex.def Info: Bilder/Logo.jpg  used on input line 99.
@@ -1041,17 +946,20 @@ Overfull \hbox (3.64635pt too wide) in paragraph at lines 90--101
 $[]$ $[]$  
  []
 
-<Bilder/Versuch O2 Darstellung.png, id=7, 370.38374pt x 167.12437pt>
+<Bilder/Versuch O2 Darstellung.png, id=2, 370.38374pt x 167.12437pt>
 File: Bilder/Versuch O2 Darstellung.png Graphic file (type png)
 <use Bilder/Versuch O2 Darstellung.png>
 Package luatex.def Info: Bilder/Versuch O2 Darstellung.png  used on input line 
 107.
 (luatex.def)             Requested size: 1111.14848pt x 501.37184pt.
-[1<./Bilder/Logo.jpg><./Bilder/Versuch O2 Darstellung.png>]
-No file Titelblatt.toc.
+[1
+
+{C:/Users/HP/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}<./Bilder/Logo.jpg
+><./Bilder/Versuch O2 Darstellung.png>] (./Titelblatt.toc)
 \tf@toc=\write4
 
 \openout4 = Titelblatt.toc
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1068,17 +976,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [3] (./Theorie.tex
-<Bilder/Strahlengang O2.png, id=20, 263.48438pt x 197.73875pt>
+<Bilder/Strahlengang O2.png, id=18, 263.48438pt x 197.73875pt>
 File: Bilder/Strahlengang O2.png Graphic file (type png)
 <use Bilder/Strahlengang O2.png>
 Package luatex.def Info: Bilder/Strahlengang O2.png  used on input line 24.
 (luatex.def)             Requested size: 263.48372pt x 197.73827pt.
-
-
-LaTeX Warning: Reference `eq:1' on page 4 undefined on input line 49.
-
-
-LaTeX Warning: Reference `eq:2' on page 4 undefined on input line 49.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1096,11 +998,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [5] (./Versuchsbeschreibung.tex
-<Bilder/Richtiger Aufbau.jpg, id=38, 2353.79375pt x 3317.39375pt>
+<Bilder/Richtiger Aufbau.jpg, id=35, 2353.79375pt x 3317.39375pt>
 File: Bilder/Richtiger Aufbau.jpg Graphic file (type jpg)
 <use Bilder/Richtiger Aufbau.jpg>
 Package luatex.def Info: Bilder/Richtiger Aufbau.jpg  used on input line 13.
-(luatex.def)             Requested size: 188.30734pt x 265.39693pt.
+(luatex.def)             Requested size: 164.7824pt x 232.24129pt.
 )
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1109,7 +1011,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[6<./Bilder/Richtiger Aufbau.jpg>]
+[6<./Bilder/Richtiger Aufbau.jpg>] (./AuswertungundDiskussion.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1117,7 +1019,10 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[7] (./AuswertungundDiskussion.tex
+[7]
+
+LaTeX Warning: Citation '1' on page 8 undefined on input line 179.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1127,41 +1032,19 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [8]
 
-LaTeX Warning: Reference `eq:4' on page 9 undefined on input line 121.
+LaTeX Warning: Citation '1' on page 9 undefined on input line 215.
 
 
-LaTeX Warning: Citation 'tipler' on page 9 undefined on input line 178.
+LaTeX Warning: Citation 'Optical_Constant_of_Water' on page 9 undefined on inpu
+t line 245.
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[9]
-
-LaTeX Warning: Citation 'tipler' on page 10 undefined on input line 214.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[10]
-
-LaTeX Warning: Citation 'Optical_Constant_of_Water' on page 11 undefined on inp
-ut line 246.
-
-<Bilder/ngegenlampda.png, id=62, 462.528pt x 346.896pt>
+<Bilder/ngegenlampda.png, id=52, 462.528pt x 346.896pt>
 File: Bilder/ngegenlampda.png Graphic file (type png)
 <use Bilder/ngegenlampda.png>
-Package luatex.def Info: Bilder/ngegenlampda.png  used on input line 277.
+Package luatex.def Info: Bilder/ngegenlampda.png  used on input line 279.
 (luatex.def)             Requested size: 462.52686pt x 346.89514pt.
 
-Overfull \hbox (35.7355pt too wide) in paragraph at lines 277--279
+Overfull \hbox (35.7355pt too wide) in paragraph at lines 279--281
  [][] 
  []
 
@@ -1172,7 +1055,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[11]
+[9])
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1180,7 +1063,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[12<./Bilder/ngegenlampda.png>])
+[10<./Bilder/ngegenlampda.png>] (./Zusammenfassung.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1188,15 +1071,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[13] (./Zusammenfassung.tex)
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 13.59999pt, for example:
-(fancyhdr)                \setlength{\headheight}{13.59999pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
-
-[14] (./Laborbuch(Anhang).tex
+[11] (./Laborbuch(Anhang).tex
 File: Bilder/ngegenlampda.png Graphic file (type png)
 <use Bilder/ngegenlampda.png>
 Package luatex.def Info: Bilder/ngegenlampda.png  used on input line 5.
@@ -1217,7 +1092,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[15]
+[12]
 File: Bilder/Strahlengang O2.png Graphic file (type png)
 <use Bilder/Strahlengang O2.png>
 Package luatex.def Info: Bilder/Strahlengang O2.png  used on input line 15.
@@ -1235,7 +1110,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[16]
+[13]
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1243,10 +1118,11 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[17] (./Literaturverzeichnis.tex)
+[14] (./Literaturverzeichnis.tex
 
 LaTeX Warning: Empty bibliography on input line 2.
 
+)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -1254,7 +1130,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
-[18] (./Titelblatt.aux)
+[15] (./Titelblatt.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -1262,9 +1138,6 @@ L3 programming layer <2024-01-04>
 
 
 LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 
 Package biblatex Warning: Please (re)run Biber on the file:
@@ -1277,27 +1150,26 @@ Package logreq Info: Writing requests to 'Titelblatt.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 18930 strings out of 476497
- 100000,1977958 words of node,token memory allocated
- 797 words of node memory still in use:
-   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 46 attribute, 85 glue_spec
+ 18206 strings out of 476497
+ 125161,1977958 words of node,token memory allocated
+ 802 words of node memory still in use:
+   7 hlist, 2 vlist, 2 rule, 5 glue, 4 kern, 1 glyph, 46 attribute, 86 glue_spec
 , 25 attribute_list, 1 write nodes
-   avail lists: 1:1,2:1250,3:153,4:52,5:415,6:50,7:6192,8:123,9:845,10:22,11:438
-
- 40569 multiletter control sequences out of 65536+600000
+   avail lists: 2:1252,3:151,4:52,5:437,6:50,7:6394,8:123,9:849,10:21,11:483
+ 39860 multiletter control sequences out of 65536+600000
  64 fonts using 4829399 bytes
- 79i,15n,89p,718b,7175s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 79i,15n,89p,718b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <//?/c:/users/hp/appdata/local/programs/miktex/fonts/opentype/public/lm/lmromand
 emi10-regular.otf><//?/c:/users/hp/appdata/local/programs/miktex/fonts/opentype/
 public/lm/lmroman12-italic.otf><//?/c:/users/hp/appdata/local/programs/miktex/fo
 nts/opentype/public/lm/lmroman6-regular.otf><//?/c:/users/hp/appdata/local/progr
-ams/miktex/fonts/opentype/public/lm/lmroman10-bold.otf><//?/c:/users/hp/appdata/
-local/programs/miktex/fonts/opentype/public/lm/lmroman8-regular.otf><//?/c:/user
-s/hp/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-italic.otf
+ams/miktex/fonts/opentype/public/lm/lmroman8-regular.otf><//?/c:/users/hp/appdat
+a/local/programs/miktex/fonts/opentype/public/lm/lmroman10-italic.otf><//?/c:/us
+ers/hp/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman10-bold.otf
 ><//?/c:/users/hp/appdata/local/programs/miktex/fonts/opentype/public/lm/lmroman
-12-regular.otf><//?/c:/users/hp/appdata/local/programs/miktex/fonts/opentype/pub
-lic/lm/lmroman12-bold.otf><//?/c:/users/hp/appdata/local/programs/miktex/fonts/o
-pentype/public/lm/lmroman10-regular.otf><C:/Users/HP/AppData/Local/Programs/MiKT
+10-regular.otf><//?/c:/users/hp/appdata/local/programs/miktex/fonts/opentype/pub
+lic/lm/lmroman12-regular.otf><//?/c:/users/hp/appdata/local/programs/miktex/font
+s/opentype/public/lm/lmroman12-bold.otf><C:/Users/HP/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/HP/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/HP/AppData/Local/Pro
 grams/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/HP/AppData/Loca
@@ -1310,9 +1182,9 @@ ers/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C
 ><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy1
 0.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
 cmsy8.pfb>
-Output written on Titelblatt.pdf (19 pages, 1433082 bytes).
+Output written on Titelblatt.pdf (15 pages, 1432612 bytes).
 
-PDF statistics: 177 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 165 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
