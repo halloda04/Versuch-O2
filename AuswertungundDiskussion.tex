@@ -1,0 +1,151 @@
+\section{Auswertung}
+\subsection{Teil 1}
+
+Für die Länge $L$ also den Abstand zwischen Prisma und Schrim wurde ein Wert von $385$mm $\pm2 $mm. Dieser Fehler ensteht zum einen aus der
+Ungenauigkeit des Lineals, zum anderen daraus das dass Prisma mit Augenmaß auf der Mitte des Prismastandes platziert werden musste. Die Messung 
+der Farbstreifen welche durch das Große Prisma, im folgendem Prisma 1 gennant, ergab Folgende Werte
+
+\begin{table}[h!]
+\large
+\centering
+\label{tab:ringradien}
+\begin{tabular}{|c|c|}
+\hline
+Farbe &Entfernung \textit{x} zum Nullpunkt in mm\\
+\hline
+Rot & 406 $\pm$ 1  \\
+\hline
+Gelb & 409 $\pm$ 1 \\
+\hline  
+Grün & 415 $\pm$ 2\\
+\hline  
+Blau & 421 $\pm$ 2\\
+
+\hline
+\end{tabular}
+
+\caption{\textit{Die Entfernung \textit{x} zum Nullpunkt der verschiedenen Farben von Prisma 1}}
+
+
+
+\end{table}
+\noindent
+Mit Hilfe Der Formel für Den Winkel $\delta_{min}$:
+\begin{equation}
+    \text{tan}(\delta_{min}) = \frac{x}{L} \Leftrightarrow \delta_{min} = \text{arctan}\left(\frac{x}{L}\right)
+    \label{eq:5}
+\end{equation}
+ergibt sich Folgende Tabelle für den Winkel $\delta_{min}$:
+
+\begin{table}[h!]
+\centering
+\large
+\label{tab:deltas}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Farbe} & $\boldsymbol{\delta_{\min}}$ & $\boldsymbol{\Delta \delta_{\min}}$ \\
+\hline
+Rot  & $46.5^\circ$ & $ \pm 0.22^\circ$ \\
+\hline
+Gelb & $46.7^\circ$ & $ \pm 0.22^\circ$ \\
+\hline
+Grün & $47.15^\circ$ & $ \pm 0.29^\circ$ \\
+\hline
+Blau & $47.56^\circ$ & $ \pm 0.28^\circ$ \\
+\hline
+\end{tabular}
+\caption{\textit{Minimaler Ablenkwinkel $\delta_{min}$ für verschiedene Farben.}}
+\end{table}
+
+
+Der Fehler $\Delta \delta_{min}$ is gegeben durch:
+
+\begin{equation}
+\Delta \delta_{\min} 
+= \pm \left( 
+\left| \frac{\partial \delta_{\min}}{\partial x} \right| \cdot \Delta x 
++ 
+\left| \frac{\partial \delta_{\min}}{\partial L} \right| \cdot \Delta L 
+\right) = \pm \left(
+\frac{L \cdot \Delta x}{x^2 + L^2}
++ 
+\frac{x \cdot \Delta L}{x^2 + L^2}
+\right)
+\label{eq:delta_min_final}
+\end{equation}
+
+Die Messwerte des Zweiten Prismas:
+
+\begin{table}[h!]
+\large
+\centering
+\label{tab:ringradien2}
+\begin{tabular}{|c|c|}
+\hline
+Farbe &Entfernung \textit{x} zum Nullpunkt in mm\\
+\hline
+Rot & 530 $\pm$ 1  \\
+\hline
+Gelb & 543 $\pm$ 3 \\
+\hline  
+Grün & 553 $\pm$ 1\\
+\hline  
+Blau & 575 $\pm$ 3\\
+
+\hline
+\end{tabular}
+
+\caption{\textit{Die Entfernung \textit{x} zum Nullpunkt der verschiedenen Farben von Prisma 2}}
+
+\end{table}
+
+\begin{table}[H]
+\centering
+\large
+\label{tab:deltas2}
+\begin{tabular}{|c|c|c|}
+\hline
+\textbf{Farbe} & $\boldsymbol{\delta_{\min}}$ & $\boldsymbol{\Delta \delta_{\min}}$ \\
+\hline
+Rot  & $46.5^\circ$ & $ \pm 0.19^\circ$ \\
+\hline
+Gelb & $46.7^\circ$ & $ \pm 0.28^\circ$ \\
+\hline
+Grün & $47.15^\circ$ & $ \pm 0.19^\circ$ \\
+\hline
+Blau & $57.56^\circ$ & $ \pm 0.28^\circ$ \\
+\hline
+\end{tabular}
+\caption{\textit{Minimaler Ablenkwinkel $\delta_{min}$ für verschiedene Farben.}}
+\end{table}
+Unter Verwendung von Gleichung (\ref{eq:4}) können die Brechungsindizes berechnet werden. Dabei ist $\epsilon = 60° \pm 2 °$ da es sich bei allen Prismen um ein gleichseiige Prismen handelt, bei welchen alle relevanten Winkel $60°$ sind. Der Fehler $\Delta \epsilon$ ist mit $\pm 2$ recht hoch, was daher kommt, dass die Prismen
+zum Teil stark abgenutzt sind. Der Fehler in $n$ ist:
+\begin{equation}
+    \Delta n = \pm \left( 
+    \left| \frac{\partial n}{\partial \delta_{\min}} \right| \cdot \Delta \delta_{\min}
+    + 
+    \left| \frac{\partial n}{\partial \varepsilon} \right| \cdot \Delta \varepsilon
+    \right)
+\end{equation}
+
+Daraus folgt:
+
+\begin{equation}
+\Delta n = \pm \left(
+    \frac{
+        \cos^2\!\left(\frac{\delta_{\min} + \varepsilon}{2}\right)
+    }{
+        2 \sin\!\left(\frac{\varepsilon}{2}\right)
+    } \cdot \Delta \delta_{\min}
+    +
+    \frac{
+        \cos\!\left(\frac{\varepsilon}{2}\right)
+        \sin\!\left(\frac{\delta_{\min} + \varepsilon}{2}\right)
+        + \sin\!\left(\frac{\varepsilon}{2}\right)
+        \cos\!\left(\frac{\delta_{\min} + \varepsilon}{2}\right)
+    }{
+        2 \sin^2\!\left(\frac{\varepsilon}{2}\right)
+    } \cdot \Delta \varepsilon
+\right)
+\end{equation}
+
