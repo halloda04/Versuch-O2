@@ -18,51 +18,23 @@
 
 
 \refsection{0}
-  \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{Optical_Constant_of_Water}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=9aab3beed28b1538ee67d9e7594d47fb}{%
-           family={Hale},
-           familyi={H\bibinitperiod},
-           given={G.M.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b1d386fa41ce6702488a11fa6d3e2a0f}{%
-           family={M.R.Querry},
-           familyi={M\bibinitperiod}}}%
-      }
-      \strng{namehash}{0754cc15951535724bab080543345a80}
-      \strng{fullhash}{0754cc15951535724bab080543345a80}
-      \strng{fullhashraw}{0754cc15951535724bab080543345a80}
-      \strng{bibnamehash}{0754cc15951535724bab080543345a80}
-      \strng{authorbibnamehash}{0754cc15951535724bab080543345a80}
-      \strng{authornamehash}{0754cc15951535724bab080543345a80}
-      \strng{authorfullhash}{0754cc15951535724bab080543345a80}
-      \strng{authorfullhashraw}{0754cc15951535724bab080543345a80}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Applied Optics}
-      \field{title}{Optical Constants of Water in the 200-nm to 200µm Wavelenght Region}
-      \field{year}{1973}
-    \endentry
-    \entry{tipler}{book}{}{}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{1}{book}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b6d49f29f369c162604bae0d2f6dd9db}{%
-           family={G.Mosca},
-           familyi={G\bibinitperiod},
-           given={P.A.Tipler},
-           giveni={P\bibinitperiod},
-           givenun=0,
+        {{hash=b6d49f29f369c162604bae0d2f6dd9db}{%
+           family={G.\bibnamedelimi Mosca},
+           familyi={G\bibinitperiod\bibinitdelim M\bibinitperiod},
+           given={P.A\bibnamedelima Tipler},
+           giveni={P\bibinitperiod\bibinitdelim T\bibinitperiod},
            prefix={und},
            prefixi={u\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {New York}%
+      \name{editor}{1}{}{%
+        {{hash=6cc4e7b4a2eb156c43fb992b31bd417f}{%
+           family={Kersten},
+           familyi={K\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
       }
       \list{publisher}{1}{%
         {Springer Spektrum}%
@@ -75,83 +47,74 @@
       \strng{authornamehash}{b6d49f29f369c162604bae0d2f6dd9db}
       \strng{authorfullhash}{b6d49f29f369c162604bae0d2f6dd9db}
       \strng{authorfullhashraw}{b6d49f29f369c162604bae0d2f6dd9db}
-      \field{sortinit}{u}
-      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
+      \strng{editorbibnamehash}{6cc4e7b4a2eb156c43fb992b31bd417f}
+      \strng{editornamehash}{6cc4e7b4a2eb156c43fb992b31bd417f}
+      \strng{editorfullhash}{6cc4e7b4a2eb156c43fb992b31bd417f}
+      \strng{editorfullhashraw}{6cc4e7b4a2eb156c43fb992b31bd417f}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Physik für Wissenschaftler und Ingenieure}
       \field{year}{2019}
     \endentry
-  \enddatalist
-  \datalist[entry]{apa/global//global/global/global}
     \entry{Optical_Constant_of_Water}{article}{}{}
       \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=9aab3beed28b1538ee67d9e7594d47fb}{%
-           family={Hale},
-           familyi={H\bibinitperiod},
-           given={G.M.},
-           giveni={G\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=b1d386fa41ce6702488a11fa6d3e2a0f}{%
+        {{hash=32c5a60b95176e38da7d6c8a5a3dc30b}{%
+           family={G.M.Hale},
+           familyi={G\bibinitperiod}}}%
+        {{hash=b1d386fa41ce6702488a11fa6d3e2a0f}{%
            family={M.R.Querry},
            familyi={M\bibinitperiod}}}%
       }
-      \strng{namehash}{0754cc15951535724bab080543345a80}
-      \strng{fullhash}{0754cc15951535724bab080543345a80}
-      \strng{fullhashraw}{0754cc15951535724bab080543345a80}
-      \strng{bibnamehash}{0754cc15951535724bab080543345a80}
-      \strng{authorbibnamehash}{0754cc15951535724bab080543345a80}
-      \strng{authornamehash}{0754cc15951535724bab080543345a80}
-      \strng{authorfullhash}{0754cc15951535724bab080543345a80}
-      \strng{authorfullhashraw}{0754cc15951535724bab080543345a80}
-      \field{sortinit}{H}
-      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
+      \strng{namehash}{960fbf79e65806a29c20f109c11fdfd2}
+      \strng{fullhash}{960fbf79e65806a29c20f109c11fdfd2}
+      \strng{fullhashraw}{960fbf79e65806a29c20f109c11fdfd2}
+      \strng{bibnamehash}{960fbf79e65806a29c20f109c11fdfd2}
+      \strng{authorbibnamehash}{960fbf79e65806a29c20f109c11fdfd2}
+      \strng{authornamehash}{960fbf79e65806a29c20f109c11fdfd2}
+      \strng{authorfullhash}{960fbf79e65806a29c20f109c11fdfd2}
+      \strng{authorfullhashraw}{960fbf79e65806a29c20f109c11fdfd2}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Applied Optics}
       \field{title}{Optical Constants of Water in the 200-nm to 200µm Wavelenght Region}
       \field{year}{1973}
     \endentry
-    \entry{tipler}{book}{}{}
+    \entry{Zimt}{online}{}{}
       \name{author}{1}{}{%
-        {{un=0,uniquepart=base,hash=b6d49f29f369c162604bae0d2f6dd9db}{%
-           family={G.Mosca},
-           familyi={G\bibinitperiod},
-           given={P.A.Tipler},
-           giveni={P\bibinitperiod},
-           givenun=0,
-           prefix={und},
-           prefixi={u\bibinitperiod}}}%
+        {{hash=f2d9da2b823a135f63b710a058fd9887}{%
+           family={Kienle},
+           familyi={K\bibinitperiod},
+           given={P.\bibnamedelimi Krauter;\bibnamedelimb S.\bibnamedelimi Nothelfer;\bibnamedelimb N.\bibnamedelimi Bodenschatz;\bibnamedelimb E.\bibnamedelimi Simon;\bibnamedelimb S.\bibnamedelimi Stocker;\bibnamedelimb F.\bibnamedelimi Foschum;\bibnamedelima A.},
+           giveni={P\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim N\bibinitperiod\bibinitdelim B\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim F\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
       }
-      \list{location}{1}{%
-        {New York}%
-      }
-      \list{publisher}{1}{%
-        {Springer Spektrum}%
-      }
-      \strng{namehash}{b6d49f29f369c162604bae0d2f6dd9db}
-      \strng{fullhash}{b6d49f29f369c162604bae0d2f6dd9db}
-      \strng{fullhashraw}{b6d49f29f369c162604bae0d2f6dd9db}
-      \strng{bibnamehash}{b6d49f29f369c162604bae0d2f6dd9db}
-      \strng{authorbibnamehash}{b6d49f29f369c162604bae0d2f6dd9db}
-      \strng{authornamehash}{b6d49f29f369c162604bae0d2f6dd9db}
-      \strng{authorfullhash}{b6d49f29f369c162604bae0d2f6dd9db}
-      \strng{authorfullhashraw}{b6d49f29f369c162604bae0d2f6dd9db}
-      \field{sortinit}{u}
-      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
+      \strng{namehash}{f2d9da2b823a135f63b710a058fd9887}
+      \strng{fullhash}{f2d9da2b823a135f63b710a058fd9887}
+      \strng{fullhashraw}{f2d9da2b823a135f63b710a058fd9887}
+      \strng{bibnamehash}{f2d9da2b823a135f63b710a058fd9887}
+      \strng{authorbibnamehash}{f2d9da2b823a135f63b710a058fd9887}
+      \strng{authornamehash}{f2d9da2b823a135f63b710a058fd9887}
+      \strng{authorfullhash}{f2d9da2b823a135f63b710a058fd9887}
+      \strng{authorfullhashraw}{f2d9da2b823a135f63b710a058fd9887}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{title}{Physik für Wissenschaftler und Ingenieure}
-      \field{year}{2019}
+      \field{title}{Optical phantoms with adjustable subdiffusive scattering parameters}
+      \field{urlday}{20}
+      \field{urlmonth}{10}
+      \field{urlyear}{2015}
+      \field{year}{2015}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://pubmed.ncbi.nlm.nih.gov/26473589
+      \endverb
+      \verb{url}
+      \verb https://pubmed.ncbi.nlm.nih.gov/26473589
+      \endverb
     \endentry
   \enddatalist
 \endrefsection
